@@ -1,0 +1,57 @@
+[{
+    "app": "Whatsapp",
+    "icon": "https://cdn3.iconfinder.com/data/icons/cute-flat-social-media-icons-3/512/whatsapp.png",
+    "content": [{
+        "title": "Arquivar conversas",
+        "steps": "Se você não quer perder uma conversa, mas também não quer ela na sua página principal, você pode arquivá-la. Para isso, faça um clique longo na conversa e depois clique em 'Arquivar'."
+      },
+      {
+        "title": "Desarquivar conversas",
+        "steps": "É só ir ao final da sua lista de conversas clicar em 'Conversas arquivadas'. Faça um clique longo na conversa e depois clique em 'Desarquivar conversa'. A conversa estará na tela principal."
+      },
+      {
+        "title": "Cancelar mensagem enviada",
+        "steps": "A mensagem pode ser apagada no chat de ambos os contatos em até 7 minutos após seu envio. Os dois contatos ficam com a notificação de remoção do conteúdo, mas a mensagem não sendo mais visível."
+      }
+    ]
+  },
+  {
+    "app": "Facebook",
+    "icon": "http://www.oslbasketgarbagnate.it/wp-content/uploads/2016/06/Facebook-logo.png",
+    "content": [{
+        "title": "Salvar fotos",
+        "steps": "Basta tocar na imagem e, em seguida, tocar no ícone de três pontinhos localizado no canto superior direito e clicar na opção 'Salvar foto'. A imagem será baixada para o álbum de fotos do seu dispositivo móvel."
+      },
+      {
+        "title": "Editar publicação",
+        "steps": "Para editar uma publicação já compartilhada, basta tocar na seta localizada no canto superior direito do post que deseja alterar, selecionar a opção 'Editar publicação' e, em seguida, fazer as alterações."
+      }
+    ]
+  },
+  {
+    "app": "Maps",
+    "icon": "https://www1-lw.xda-cdn.com/files/2016/03/Google-Adds-Ride-Sharing-Services-to-Google-Maps-Transit-Times.png",
+    "content": [{
+        "title": "Calibrar a bússola",
+        "steps": "Esse procedimento pode ser feito tanto no Android quanto no iPhone: basta tocar no ponto azul, escolher a opção para calibrar a bússola e fazer um '8' umas três ou quatro vezes seguidas. No Android, você ainda pode ativar o modo de alta precisão indo no menu 'Configurar > Localização > Modo > Alta precisão'."
+      },
+      {
+        "title": "Salve seu local de estacionamento",
+        "steps": "Quando deixar o veículo em uma vaga, o usuário precisa apenas abrir o app, tocar no ponto azul que indica a localização e escolher a opção 'Salvar local de estacionamento'. O lugar será identificado com um marcador e a legenda 'Você estacionou seu carro aqui'."
+      }
+    ]
+  },
+  {
+    "app": "Youtube",
+    "icon": "http://dryicons.com/uploads/icon/svg/8417/63353615-4005-4b1c-b02a-e47330f0ef55.svg",
+    "content": [{
+        "title": "Denunciar comentário",
+        "steps": "Para fazê-lo, basta clicar no comentário ofensivo e depois em 'Denunciar'. Depois disso, os responsáveis pelo YouTube decidirão o que fazer com esse comentário, mas ao menos você fez a sua parte."
+      },
+      {
+        "title": "Ativar o Modo de segurança",
+        "steps": "Se quiser evitar, por exemplo, que seus filhos vejam conteúdo inapropriado, uma dica valiosa é ativar o filtro que vem como padrão no aplicativo do YouTube. Como a própria equipe alega, ele não é infalível, mas evitará a maioria dos vídeos que não devem ser vistos em certas idades. Ele se encontra em 'Configurações > Gerais > Modo restrito'."
+      }
+    ]
+  }
+]
